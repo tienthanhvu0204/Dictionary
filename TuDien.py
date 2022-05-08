@@ -1,6 +1,3 @@
-from re import I
-
-
 dictionary = {"I":"Tôi", "You":"Bạn, các bạn", "It":"Nó", 
     "He":"Anh ấy, ông ấy, cậu ấy", "She":"Cô ấy, bà ấy, chị ấy",
     "We":"Chúng tôi, chúng ta", "They":"Họ, chúng nó"
